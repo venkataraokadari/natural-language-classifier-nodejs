@@ -26,8 +26,8 @@ require('./config/express')(app);
 // Create the service wrapper
 var nlClassifier = watson.natural_language_classifier({
   url : 'https://gateway.watsonplatform.net/natural-language-classifier/api',
-  username : '<username>',
-  password : '<password>',
+  username : 'f6765fd2-6740-40dd-b4ca-02e8323785f0',
+  password : 'MrLzGz1tCvJV',
   version  : 'v1'
 
 });

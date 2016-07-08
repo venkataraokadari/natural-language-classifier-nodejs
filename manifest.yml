@@ -5,7 +5,7 @@ declared-services:
 applications:
 - services:
   - natural-language-classifier-standard
-  name: natural-language-classifier-demo
+  name: vrk-nlc-nodejs-app-demo
   command: npm start
   path: .
   memory: 512M
