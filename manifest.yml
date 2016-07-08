@@ -4,7 +4,7 @@ declared-services:
     plan: standard
 applications:
 - services:
-  - natural-language-classifier-standard
+  - vrk-nlc-service
   name: vrk-nlc-nodejs-app-demo
   command: npm start
   path: .
