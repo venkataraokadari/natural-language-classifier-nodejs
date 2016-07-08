@@ -1,6 +1,6 @@
 declared-services:
   natural-language-classifier-standard:
-    label: natural_language_classifier
+    label: vrk-nlc-service
     plan: standard
 applications:
 - services:
